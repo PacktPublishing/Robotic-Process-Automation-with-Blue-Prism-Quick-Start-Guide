@@ -52,7 +52,7 @@ has extensive experience in designing, implementing and supporting Blue Prism pr
 
 
 
-## Other books by the authors
+## Other books by the author
 * [Enhancing Microsoft Content Management Server with ASP.NET 2.0](https://www.packtpub.com/web-development/enhancing-microsoft-content-management-server-aspnet-20?utm_source=github&utm_medium=repository&utm_campaign=9781904811527)
 * [Advanced Microsoft Content Management Server Development](https://www.packtpub.com/web-development/advanced-microsoft-content-management-server-development?utm_source=github&utm_medium=repository&utm_campaign=9781904811534)
 * [Building Websites with Microsoft Content Management Server](https://www.packtpub.com/networking-and-servers/building-websites-microsoft-content-management-server?utm_source=github&utm_medium=repository&utm_campaign=9781904811169)
